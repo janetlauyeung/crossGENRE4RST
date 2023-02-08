@@ -85,12 +85,17 @@ the data composition / content accordingly.
 In the case of the GUM-related experiments, don't forget to change the 
 root directory (i.e.``GUM_experiments``) as well.* 
 
-1. Clone this repository with a Python environment of 3.6 or 3.8
+1. Clone this repository with a Python environment of 3.6 or 3.8: 
+   ```bash
+   conda create --name ENV_NAME python=3.6
+   conda activate ENV_NAME
+   ```
+
 2. Install dependencies
    ```bash
-    cd rstdt_cross/src/ubc_coref
+    cd rstdt_base/src/ubc_coref
     python -m pip install -e .
-    cd rstdt_cross/
+    cd rstdt_base/
     pip install -r requirements.txt
     ```
 3. Obtain a copy of [the RST-DT data from LDC](https://catalog.ldc.upenn.edu/LDC2002T07) and place the **`data`** directory 
@@ -103,7 +108,7 @@ in parallel to the **`src`** directory
 4. Stanford CoreNLP toolkit is used to preprocess the data, 
 as part of the original implementation. Download it from 
 [here](http://stanfordnlp.github.io/CoreNLP/index.html) 
-and put the file [run_corenlp.sh](rstdt_cross/run_corenlp.sh) into the CoreNLP folder. 
+and put the file [run_corenlp.sh](rstdt_base/run_corenlp.sh) into the CoreNLP folder. 
 Then use the following command to preprocess both the data in the 
 ```train_dir``` and ```test_dir``` directories:
     ```bash
@@ -149,7 +154,7 @@ then make sure to create a new folder that contains GUM `test` files.*
 
 1. Change to the right working directory 
    ```bash
-   cd rstdt_cross/src
+   cd rstdt_base/src
    ```
    
 2. **PREPARE**: Run the following to generate the action/relation maps
@@ -177,6 +182,7 @@ unlike the original implementation.
    --train_dir "../data/train_dir/"
    --eval_dir "../data/test_dir/"
    --model_name "train_dir_model.pt"
+   --model_type 0
    --model_type 0
    ```
    OR
