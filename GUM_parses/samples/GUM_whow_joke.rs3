@@ -1,0 +1,286 @@
+<rst>
+<header>
+	<relations>
+			<rel name="Mode" type="rst"/>
+			<rel name="Adversative" type="rst"/>
+			<rel name="Restatement" type="rst"/>
+			<rel name="Explanation" type="rst"/>
+			<rel name="Evaluation" type="rst"/>
+			<rel name="Elaboration" type="rst"/>
+			<rel name="Contingency" type="rst"/>
+			<rel name="Organization" type="rst"/>
+			<rel name="Joint" type="rst"/>
+			<rel name="Causal" type="rst"/>
+			<rel name="Context" type="rst"/>
+			<rel name="Purpose" type="rst"/>
+			<rel name="Adversative" type="multinuc"/>
+			<rel name="Joint" type="multinuc"/>
+			<rel name="Same-Unit" type="multinuc"/>
+		</relations>
+</header>
+<body>
+<segment id="1" parent="1001" relname="Organization">How to Tell a Joke</segment>
+<segment id="2" parent="1002" relname="span">Two Parts :</segment>
+<segment id="3" parent="1004" relname="span">Getting the Material Right</segment>
+<segment id="4" parent="3" relname="Elaboration">Getting the Delivery Right</segment>
+<segment id="5" parent="1007" relname="Evaluation">From one - liners to classic three - liners to the one - minute gag you tell your friends , a good joke pleases everyone .</segment>
+<segment id="6" parent="1008" relname="span">Joke - telling is one of the best ways</segment>
+<segment id="7" parent="1009" relname="Joint">to ease tension ,</segment>
+<segment id="8" parent="1010" relname="Joint">make a new friend ,</segment>
+<segment id="9" parent="1010" relname="Joint">or light up a room .</segment>
+<segment id="10" parent="1011" relname="span">That is , of course ,</segment>
+<segment id="11" parent="10" relname="Contingency">if you can get a laugh .</segment>
+<segment id="12" parent="1014" relname="span">Telling good jokes is an art</segment>
+<segment id="13" parent="12" relname="Elaboration">that comes naturally to some people ,</segment>
+<segment id="14" parent="1013" relname="Adversative">but for others it takes practice and hard work .</segment>
+<segment id="15" parent="1017" relname="Organization">Part 1 of 2 :</segment>
+<segment id="16" parent="1018" relname="span">Getting the Material Right</segment>
+<segment id="17" parent="16" relname="Joint">Know your audience .</segment>
+<segment id="18" parent="1021" relname="span">All aspects of the joke</segment>
+<segment id="19" parent="18" relname="Elaboration">you tell ,</segment>
+<segment id="20" parent="1021" relname="Elaboration">from the content to the length , need to be suited to your audience .</segment>
+<segment id="21" parent="1024" relname="span">What ’s funny to a group of 20 - year old college students may be very different from what makes your 70 - year old - uncle laugh</segment>
+<segment id="22" parent="21" relname="Adversative">( then again , maybe not ) .</segment>
+<segment id="23" parent="24" relname="Causal">Everyone ’s an individual ,</segment>
+<segment id="24" parent="1025" relname="span">so there are no hard and fast rules .</segment>
+<segment id="25" parent="1027" relname="Same-Unit">But ,</segment>
+<segment id="26" parent="27" relname="Contingency">unless you personally know the members of your audience ,</segment>
+<segment id="27" parent="1028" relname="span">here are some good rules of thumb to follow :</segment>
+<segment id="28" parent="1029" relname="Joint">elderly people wo n’t like crude jokes ;</segment>
+<segment id="29" parent="1031" relname="span">stay away from misogynist jokes</segment>
+<segment id="30" parent="29" relname="Contingency">if you ’ve got an audience full of women ;</segment>
+<segment id="31" parent="1033" relname="span">people of a specific ethnic or racial group wo n’t enjoy jokes</segment>
+<segment id="32" parent="31" relname="Elaboration">making fun of their group ;</segment>
+<segment id="33" parent="1036" relname="span">and jokes requiring specialized knowledge</segment>
+<segment id="34" parent="33" relname="Elaboration">( of , for example , science or old movies )</segment>
+<segment id="35" parent="1037" relname="span">will only be appreciated by people</segment>
+<segment id="36" parent="35" relname="Elaboration">who possess that knowledge .</segment>
+<segment id="37" parent="38" relname="Context">The more you know about your audience</segment>
+<segment id="38" parent="1039" relname="span">the better you ’ll be able to tailor your jokes to them .</segment>
+<segment id="39" parent="1040" relname="span">Choose great material .</segment>
+<segment id="40" parent="1042" relname="span">You can find fodder lots of places —</segment>
+<segment id="41" parent="1043" relname="Joint">from your life ,</segment>
+<segment id="42" parent="1044" relname="span">joke files online ,</segment>
+<segment id="43" parent="1045" relname="Same-Unit">by repurposing jokes you ’ve heard in the past ,</segment>
+<segment id="44" parent="1045" relname="Same-Unit">and so on .</segment>
+<segment id="45" parent="1048" relname="Joint">You may want to start your own joke file .</segment>
+<segment id="46" parent="1051" relname="span">You can write your jokes down on index cards</segment>
+<segment id="47" parent="46" relname="Purpose">to keep them handy</segment>
+<segment id="48" parent="1050" relname="Joint">or use a document file on your computer .</segment>
+<segment id="49" parent="1050" relname="Explanation">[ 1 ]</segment>
+<segment id="50" parent="1048" relname="Elaboration">The latter option may allow for easier revision .</segment>
+<segment id="51" parent="1053" relname="Explanation">Decide on a target .</segment>
+<segment id="52" parent="1054" relname="span">Every joke has a “ target , ”</segment>
+<segment id="53" parent="52" relname="Elaboration">which is what the joke is about .</segment>
+<segment id="54" parent="1057" relname="span">It ’s important that the joke ’s target</segment>
+<segment id="55" parent="54" relname="Elaboration">( the most basic element of your material )</segment>
+<segment id="56" parent="1056" relname="Same-Unit">be suited to your audience .</segment>
+<segment id="57" parent="1061" relname="span">Make sure it ’s a target</segment>
+<segment id="58" parent="57" relname="Elaboration">your audience will be interested in</segment>
+<segment id="59" parent="1062" relname="span">and something</segment>
+<segment id="60" parent="59" relname="Elaboration">they ’re likely willing to laugh at .</segment>
+<segment id="61" parent="1060" relname="Explanation">[ 2 ]</segment>
+<segment id="62" parent="1063" relname="Adversative">For example , husbands are likely to laugh at jokes about wives and vice versa ;</segment>
+<segment id="63" parent="1063" relname="Adversative">students will typically find jokes about school and teachers humorous .</segment>
+<segment id="64" parent="1065" relname="span">Have a realistic but exaggerated setup .</segment>
+<segment id="65" parent="1070" relname="span">The opening of the joke</segment>
+<segment id="66" parent="65" relname="Elaboration">— or setup —</segment>
+<segment id="67" parent="1069" relname="Same-Unit">should have a basis in the real world</segment>
+<segment id="68" parent="1069" relname="Purpose">so your audience can relate to it ,</segment>
+<segment id="69" parent="1072" relname="span">but it should also include exaggeration</segment>
+<segment id="70" parent="69" relname="Causal">because this is what gives a joke its humorous edge .</segment>
+<segment id="71" parent="1072" relname="Explanation">[ 3 ]</segment>
+<segment id="72" parent="1074" relname="span">Think of the setup as the foundation of a story .</segment>
+<segment id="73" parent="72" relname="Restatement">It ’s a fundamental part of the joke ;</segment>
+<segment id="74" parent="1078" relname="Contingency">if you do n’t lay a good foundation here ,</segment>
+<segment id="75" parent="1078" relname="Joint">then the punchline wo n’t make sense to the audience</segment>
+<segment id="76" parent="1078" relname="Joint">or they wo n’t find it humorous .</segment>
+<segment id="77" parent="1080" relname="span">Your setup needs to be both realistic and exaggerated</segment>
+<segment id="78" parent="77" relname="Purpose">in order to be funny —</segment>
+<segment id="79" parent="1081" relname="span">it ’s placing these two incongruous elements side by side that makes the joke funny .</segment>
+<segment id="80" parent="79" relname="Explanation">[ 4 ]</segment>
+<segment id="81" parent="1082" relname="span">The exaggeration can be slight or considerable —</segment>
+<segment id="82" parent="81" relname="Adversative">it just depends on the individual joke .</segment>
+<segment id="83" parent="1085" relname="Explanation">Surprise with the punchline .</segment>
+<segment id="84" parent="1085" relname="span">The ending of the joke is obviously crucial .</segment>
+<segment id="85" parent="84" relname="Explanation">This is where the payoff comes in , what makes the joke succeed or fail .</segment>
+<segment id="86" parent="87" relname="Contingency">If you want to make the audience laugh ,</segment>
+<segment id="87" parent="1087" relname="span">your punchline needs to be surprising .</segment>
+<segment id="88" parent="1091" relname="span">Some jokes also have what is called a tag or topper ,</segment>
+<segment id="89" parent="88" relname="Elaboration">which is an additional punchline .</segment>
+<segment id="90" parent="1091" relname="Elaboration">The tag builds on the original punchline or twists back on it in a surprising way .</segment>
+<segment id="91" parent="1092" relname="span">Make the joke your own .</segment>
+<segment id="92" parent="1093" relname="Joint">Lots of jokes rehash the same ground</segment>
+<segment id="93" parent="1094" relname="span">and sometimes they retell a story</segment>
+<segment id="94" parent="93" relname="Elaboration">countless other jokes have told .</segment>
+<segment id="95" parent="1097" relname="Purpose">For your joke to be funny ,</segment>
+<segment id="96" parent="1097" relname="span">it has to surprise the audience in some way ,</segment>
+<segment id="97" parent="96" relname="Causal">which means it has to seem original or new .</segment>
+<segment id="98" parent="1101" relname="span">One way</segment>
+<segment id="99" parent="98" relname="Purpose">to personalize a joke</segment>
+<segment id="100" parent="1100" relname="Same-Unit">is to change the ending .</segment>
+<segment id="101" parent="1100" relname="Explanation">[ 5 ]</segment>
+<segment id="102" parent="1102" relname="span">Another option is to dress the joke up as a story about your own life .</segment>
+<segment id="103" parent="1103" relname="Joint">This will make a familiar joke unrecognizable .</segment>
+<segment id="104" parent="1105" relname="span">It may also make it particularly interesting</segment>
+<segment id="105" parent="104" relname="Contingency">if your audience is your friend(s) .</segment>
+<segment id="106" parent="1105" relname="Explanation">[ 6 ]</segment>
+<segment id="107" parent="1107" relname="Explanation">Know your material .</segment>
+<segment id="108" parent="1108" relname="Explanation">Practicing your joke is crucial .</segment>
+<segment id="109" parent="1111" relname="span">You do n’t need to have it completely memorized</segment>
+<segment id="110" parent="109" relname="Elaboration">— in fact , you " should n’t " memorize it —</segment>
+<segment id="111" parent="1112" relname="span">but you need to be really comfortable with it ,</segment>
+<segment id="112" parent="1114" relname="span">so comfortable</segment>
+<segment id="113" parent="1115" relname="span">that you can continue on with telling it</segment>
+<segment id="114" parent="113" relname="Adversative">even if you get nervous or sidetracked ,</segment>
+<segment id="115" parent="1116" relname="span">which is very possible</segment>
+<segment id="116" parent="115" relname="Context">once you ’re in front of an audience .</segment>
+<segment id="117" parent="1117" relname="span">Memorized jokes sound wooden ,</segment>
+<segment id="118" parent="1118" relname="span">like they are being read off a script</segment>
+<segment id="119" parent="118" relname="Adversative">instead of relayed by a friend or entertainer .</segment>
+<segment id="120" parent="121" relname="Explanation">Good jokes have a lot of details and personality ,</segment>
+<segment id="121" parent="1122" relname="span">so do n’t be afraid to embellish .</segment>
+<segment id="122" parent="1122" relname="Explanation">[ 7 ]</segment>
+<segment id="123" parent="1123" relname="Joint">Try different things out</segment>
+<segment id="124" parent="1123" relname="Joint">and see what feels right , what sounds best .</segment>
+<segment id="125" parent="1125" relname="span">Do n’t use a joke</segment>
+<segment id="126" parent="125" relname="Context">until you ’re completely comfortable with it .</segment>
+<segment id="127" parent="1126" relname="Joint">Try recording your joke on a tape player and playing it back to yourself .</segment>
+<segment id="128" parent="129" relname="Contingency">If you hear a lot of awkward pauses or “ah”s or “um”s ,</segment>
+<segment id="129" parent="1130" relname="span">your joke is n’t ready</segment>
+<segment id="130" parent="1129" relname="span">and you need to practice more .</segment>
+<segment id="131" parent="1129" relname="Explanation">[ 8 ]</segment>
+<segment id="132" parent="1131" relname="span">You can also try practicing in front of a sympathetic friend or family member</segment>
+<segment id="133" parent="132" relname="Context">once you ’re ready for a “ real ” audience .</segment>
+<group id="1000" type="span" />
+<group id="1001" type="span" parent="1000" relname="span"/>
+<group id="1002" type="span" parent="1106" relname="Joint"/>
+<group id="1003" type="span" parent="2" relname="Organization"/>
+<group id="1004" type="span" parent="1003" relname="span"/>
+<group id="1005" type="span" parent="1004" relname="Joint"/>
+<group id="1006" type="span" parent="1005" relname="span"/>
+<group id="1007" type="span" parent="1006" relname="span"/>
+<group id="1008" type="span" parent="1007" relname="span"/>
+<group id="1009" type="multinuc" parent="6" relname="Purpose"/>
+<group id="1010" type="multinuc" parent="1009" relname="Joint"/>
+<group id="1011" type="span" parent="1008" relname="Adversative"/>
+<group id="1012" type="span" parent="1006" relname="Context"/>
+<group id="1013" type="multinuc" parent="1012" relname="span"/>
+<group id="1014" type="span" parent="1013" relname="Adversative"/>
+<group id="1015" type="span" parent="1013" relname="Explanation"/>
+<group id="1016" type="span" parent="1064" relname="Context"/>
+<group id="1017" type="span" parent="1016" relname="span"/>
+<group id="1018" type="span" parent="1019" relname="Context"/>
+<group id="1019" type="span" parent="1017" relname="span"/>
+<group id="1020" type="span" parent="1019" relname="span"/>
+<group id="1021" type="span" parent="1020" relname="span"/>
+<group id="1022" type="span" parent="1020" relname="Explanation"/>
+<group id="1023" type="span" parent="1026" relname="Adversative"/>
+<group id="1024" type="span" parent="1023" relname="span"/>
+<group id="1025" type="span" parent="1024" relname="Explanation"/>
+<group id="1026" type="span" parent="1022" relname="span"/>
+<group id="1027" type="multinuc" parent="1029" relname="Organization"/>
+<group id="1028" type="span" parent="1027" relname="Same-Unit"/>
+<group id="1029" type="multinuc" parent="1026" relname="span"/>
+<group id="1030" type="multinuc" parent="1029" relname="Joint"/>
+<group id="1031" type="span" parent="1030" relname="Joint"/>
+<group id="1032" type="multinuc" parent="1030" relname="Joint"/>
+<group id="1033" type="span" parent="1032" relname="Joint"/>
+<group id="1034" type="multinuc" parent="1032" relname="Joint"/>
+<group id="1035" type="multinuc" parent="1034" relname="Joint"/>
+<group id="1036" type="span" parent="1035" relname="Same-Unit"/>
+<group id="1037" type="span" parent="1035" relname="Same-Unit"/>
+<group id="1038" type="span" parent="1034" relname="Joint"/>
+<group id="1039" type="span" parent="1040" relname="Explanation"/>
+<group id="1040" type="span" parent="1038" relname="span"/>
+<group id="1041" type="multinuc" parent="39" relname="Explanation"/>
+<group id="1042" type="span" parent="1041" relname="Joint"/>
+<group id="1043" type="multinuc" parent="40" relname="Elaboration"/>
+<group id="1044" type="span" parent="1043" relname="Joint"/>
+<group id="1045" type="multinuc" parent="42" relname="Mode"/>
+<group id="1046" type="span" parent="1041" relname="Joint"/>
+<group id="1047" type="span" parent="1052" relname="Joint"/>
+<group id="1048" type="multinuc" parent="1047" relname="span"/>
+<group id="1049" type="span" parent="1048" relname="Joint"/>
+<group id="1050" type="multinuc" parent="1049" relname="span"/>
+<group id="1051" type="span" parent="1050" relname="Joint"/>
+<group id="1052" type="span" parent="1046" relname="span"/>
+<group id="1053" type="span" parent="1052" relname="span"/>
+<group id="1054" type="span" parent="1055" relname="Context"/>
+<group id="1055" type="span" parent="1053" relname="span"/>
+<group id="1056" type="multinuc" parent="1055" relname="span"/>
+<group id="1057" type="span" parent="1056" relname="Same-Unit"/>
+<group id="1058" type="span" parent="1056" relname="Explanation"/>
+<group id="1059" type="span" parent="1058" relname="span"/>
+<group id="1060" type="multinuc" parent="1059" relname="span"/>
+<group id="1061" type="span" parent="1060" relname="Same-Unit"/>
+<group id="1062" type="span" parent="1060" relname="Same-Unit"/>
+<group id="1063" type="multinuc" parent="1059" relname="Explanation"/>
+<group id="1064" type="span" parent="1015" relname="span"/>
+<group id="1065" type="span" parent="1064" relname="span"/>
+<group id="1066" type="span" parent="64" relname="Elaboration"/>
+<group id="1067" type="multinuc" parent="1073" relname="Context"/>
+<group id="1068" type="span" parent="1067" relname="Adversative"/>
+<group id="1069" type="multinuc" parent="1068" relname="span"/>
+<group id="1070" type="span" parent="1069" relname="Same-Unit"/>
+<group id="1071" type="span" parent="1067" relname="Adversative"/>
+<group id="1072" type="span" parent="1071" relname="span"/>
+<group id="1073" type="span" parent="1066" relname="span"/>
+<group id="1074" type="span" parent="1073" relname="span"/>
+<group id="1075" type="span" parent="1074" relname="Explanation"/>
+<group id="1076" type="span" parent="1075" relname="span"/>
+<group id="1077" type="span" parent="1079" relname="Explanation"/>
+<group id="1078" type="multinuc" parent="1077" relname="span"/>
+<group id="1079" type="span" parent="1076" relname="span"/>
+<group id="1080" type="span" parent="1079" relname="span"/>
+<group id="1081" type="span" parent="1080" relname="Explanation"/>
+<group id="1082" type="span" parent="1076" relname="Adversative"/>
+<group id="1083" type="multinuc" parent="1065" relname="Explanation"/>
+<group id="1084" type="span" parent="1083" relname="Joint"/>
+<group id="1085" type="span" parent="1084" relname="span"/>
+<group id="1086" type="multinuc" parent="1083" relname="Joint"/>
+<group id="1087" type="span" parent="1086" relname="Joint"/>
+<group id="1088" type="span" parent="1086" relname="Joint"/>
+<group id="1089" type="span" parent="1088" relname="span"/>
+<group id="1090" type="span" parent="1092" relname="Explanation"/>
+<group id="1091" type="span" parent="1090" relname="span"/>
+<group id="1092" type="span" parent="1089" relname="span"/>
+<group id="1093" type="multinuc" parent="91" relname="Explanation"/>
+<group id="1094" type="span" parent="1093" relname="Joint"/>
+<group id="1095" type="span" parent="1089" relname="Causal"/>
+<group id="1096" type="span" parent="1095" relname="span"/>
+<group id="1097" type="span" parent="1096" relname="span"/>
+<group id="1098" type="multinuc" parent="1096" relname="Elaboration"/>
+<group id="1099" type="span" parent="1098" relname="Joint"/>
+<group id="1100" type="multinuc" parent="1099" relname="span"/>
+<group id="1101" type="span" parent="1100" relname="Same-Unit"/>
+<group id="1102" type="span" parent="1098" relname="Joint"/>
+<group id="1103" type="multinuc" parent="102" relname="Causal"/>
+<group id="1104" type="span" parent="1103" relname="Joint"/>
+<group id="1105" type="span" parent="1104" relname="span"/>
+<group id="1106" type="span" parent="1001" relname="span"/>
+<group id="1107" type="span" parent="1106" relname="span"/>
+<group id="1108" type="multinuc" parent="1107" relname="span"/>
+<group id="1109" type="span" parent="1108" relname="Joint"/>
+<group id="1110" type="span" parent="1109" relname="span"/>
+<group id="1111" type="span" parent="1112" relname="Adversative"/>
+<group id="1112" type="span" parent="1110" relname="span"/>
+<group id="1113" type="span" parent="111" relname="Causal"/>
+<group id="1114" type="span" parent="1113" relname="span"/>
+<group id="1115" type="span" parent="112" relname="Purpose"/>
+<group id="1116" type="span" parent="1114" relname="Adversative"/>
+<group id="1117" type="span" parent="1110" relname="Elaboration"/>
+<group id="1118" type="span" parent="117" relname="Elaboration"/>
+<group id="1120" type="span" parent="1108" relname="Joint"/>
+<group id="1121" type="span" parent="1123" relname="Explanation"/>
+<group id="1122" type="span" parent="1121" relname="span"/>
+<group id="1123" type="multinuc" parent="1120" relname="span"/>
+<group id="1124" type="span" parent="1108" relname="Joint"/>
+<group id="1125" type="span" parent="1126" relname="Explanation"/>
+<group id="1126" type="multinuc" parent="1124" relname="span"/>
+<group id="1128" type="span" parent="1126" relname="Joint"/>
+<group id="1129" type="span" parent="1128" relname="span"/>
+<group id="1130" type="span" parent="130" relname="Causal"/>
+<group id="1131" type="span" parent="1126" relname="Joint"/>
+	</body>
+</rst>

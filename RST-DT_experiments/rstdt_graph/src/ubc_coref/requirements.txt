@@ -1,0 +1,11 @@
+ipython
+jupyter
+nltk
+torch==1.6.0
+torchtext
+boltons
+cached_property
+attrs
+tqdm
+networkx
+transformers==3.0.2
