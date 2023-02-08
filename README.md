@@ -128,7 +128,7 @@ Then use the following command to preprocess both the data in the
        src/
     ```
 
-5. Generally speaking, three data formats for each document is needed and thus 
+5. Generally speaking, there are three data formats that is needed for each document and thus 
 they must be present in the respective data directories:
    ````
    .merge
