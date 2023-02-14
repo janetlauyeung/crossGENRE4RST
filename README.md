@@ -1,6 +1,17 @@
 # EACL2023: Why Can’t Discourse Parsing Generalize? A Thorough Investigation of the Impact of Data Diversity
 This README.md provides an overview of the code repositories contained here 
-and instructions on running the experiments described in the paper. 
+and instructions on running the experiments described in the paper ([preprint](https://arxiv.org/abs/2302.06488)). 
+```bash
+@inproceedings{liu-zeldes-2023-eacl,
+    title = "Why Can't Discourse Parsing Generalize? A Thorough Investigation of the Impact of Data Diversity",
+    author = "Yang Janet Liu and Amir Zeldes",
+    booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+}
+```
 
 Overall, the directories included in this repository contains the adapted code 
 for our experiments from the original implementation of 
