@@ -1,16 +1,21 @@
 # EACL2023: Why Can’t Discourse Parsing Generalize? A Thorough Investigation of the Impact of Data Diversity
 This README.md provides an overview of the code repositories contained here 
-and instructions on running the experiments described in the [paper](https://arxiv.org/abs/2302.06488):  
+and instructions on running the experiments described in the [paper](https://aclanthology.org/2023.eacl-main.227/):  
 ```bash
-@inproceedings{liu-zeldes-2023-eacl,
-    title = "Why Can't Discourse Parsing Generalize? A Thorough Investigation of the Impact of Data Diversity",
-    author = "Yang Janet Liu and Amir Zeldes",
-    booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+@inproceedings{liu-zeldes-2023-cant,
+    title = "Why Can{'}t Discourse Parsing Generalize? {A} Thorough Investigation of the Impact of Data Diversity",
+    author = "Liu, Yang Janet  and
+      Zeldes, Amir",
+    booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics",
     month = may,
     year = "2023",
     address = "Dubrovnik, Croatia",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.eacl-main.227",
+    pages = "3112--3130",
+    abstract = "Recent advances in discourse parsing performance create the impression that, as in other NLP tasks, performance for high-resource languages such as English is finally becoming reliable. In this paper we demonstrate that this is not the case, and thoroughly investigate the impact of data diversity on RST parsing stability. We show that state-of-the-art architectures trained on the standard English newswire benchmark do not generalize well, even within the news domain. Using the two largest RST corpora of English with text from multiple genres, we quantify the impact of genre diversity in training data for achieving generalization to text types unseen during training. Our results show that a heterogeneous training regime is critical for stable and generalizable models, across parser architectures. We also provide error analyses of model outputs and out-of-domain performance. To our knowledge, this study is the first to fully evaluate cross-corpus RST parsing generalizability on complete trees, examine between-genre degradation within an RST corpus, and investigate the impact of genre diversity in training data composition.",
 }
+
 ```
 
 Overall, the directories included in this repository contains the adapted code 
