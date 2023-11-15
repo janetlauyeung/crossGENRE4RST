@@ -124,7 +124,7 @@ in parallel to the **`src`** directory
 4. Stanford CoreNLP toolkit is used to preprocess the data, 
 as part of the original implementation. Download it from 
 [here](http://stanfordnlp.github.io/CoreNLP/index.html) 
-and put the file [run_corenlp.sh](rstdt_base/run_corenlp.sh) into the CoreNLP folder. 
+and put the file [run_corenlp.sh](RST-DT_experiments/rstdt_base/run_corenlp.sh) into the CoreNLP folder. 
 Then use the following command to preprocess both the data in the 
 ```train_dir``` and ```test_dir``` directories:
     ```bash
